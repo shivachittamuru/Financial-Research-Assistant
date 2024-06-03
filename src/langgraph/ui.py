@@ -85,7 +85,7 @@ ui = gr.Interface(
     fn=financial_agent,
     inputs=gr.Textbox(lines=2, placeholder="Enter your query here..."),
     outputs=gr.Markdown(),
-    title="Financial Agent",
+    title="Financial Research Assistant",
     description="Financial Data Explorer: Leveraging Advanced API Tools for Market Insights"
 )
 
