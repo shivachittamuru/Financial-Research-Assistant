@@ -1,0 +1,35 @@
+# Local python packages
+.python_packages/
+__pypackages__/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+__blobstorage__
+__azurite_db_blob__.json
+__azurite_db_blob_extent__.json
+*.py[cod]
+*$py.class
+
+# Python Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+launch.json
+
+# Serialized files
+vectorstore.pkl
+
+# Folders
+flagged/
+
+commands.md

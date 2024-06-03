@@ -1,0 +1,6 @@
+langchain
+langgraph
+langsmith
+langchain_openai
+langchainhub
+polygon-api-client
