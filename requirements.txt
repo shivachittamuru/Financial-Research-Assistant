@@ -4,3 +4,4 @@ langsmith
 langchain_openai
 langchainhub
 polygon-api-client
+gradio
