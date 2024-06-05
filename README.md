@@ -6,7 +6,7 @@ git clone https://github.com/shivachittamuru/Financial-Research-Assistant.git
 cd Financial-Research-Assistant
 ```
 
-Create a conda environment:
+Create a conda environment with 3.10 or 3.11 version of Python:
 ```console
 conda create --name assistant python=3.10
 conda activate assistant
